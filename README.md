@@ -14,7 +14,12 @@ NOTE Today's world is competitive in business. The one with great technology wil
    Analytics Website dashboard
 
 4. 📌you can use today's lesson as a basis for you to create your system with the data you have
- 
+
+
+ ![7](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/6a23a905-8172-48fb-8267-022b73734de2)
+
+ ![10](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/798a7f89-c91d-4965-972e-f61eb0c70d22)
+
 ![10](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/61637f15-4d2a-4456-a638-c68713548db8)
 
 ![9](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/352bd5c1-c2bc-492a-abde-3e55597d282c)
