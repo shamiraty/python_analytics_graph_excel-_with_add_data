@@ -1,0 +1,24 @@
+EXCEL ANALYTICS DASHBOARD
+
+
+1. Filter Data by date range
+2. Filter Data by Qualitative and Quantitative
+3. Filter table by value
+4. Frequency
+5. sum and range
+6. Scatter Plot, Histogram, Dot Plot
+7. Material Design
+
+
+
+
+
+
+
+
+STEPS 1:
+
+1. install python
+2. install streamlit
+3. intall libraries
+4. start coding
