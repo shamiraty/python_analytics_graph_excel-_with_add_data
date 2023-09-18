@@ -15,17 +15,19 @@ NOTE Today's world is competitive in business. The one with great technology wil
 
 4. 📌you can use today's lesson as a basis for you to create your system with the data you have
  
-![3](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/4a5b72ac-f3ce-4643-bd64-610ae0ade520)
+
 
 ![7](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/40244ff1-49cc-4c0d-9b40-98304916873e)
 
 ![10](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/61637f15-4d2a-4456-a638-c68713548db8)
- 
- ![1](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/584ff5a8-c115-42b7-888d-7c5d55fb504f)
- 
-![2](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/5027488c-7d42-481b-9019-48acb1a50e21)
 
 ![9](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/352bd5c1-c2bc-492a-abde-3e55597d282c)
+ 
+ ![1](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/584ff5a8-c115-42b7-888d-7c5d55fb504f)
+
+ ![3](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/4a5b72ac-f3ce-4643-bd64-610ae0ade520)
+ 
+![2](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/5027488c-7d42-481b-9019-48acb1a50e21)
 
 ![11](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/95079848-bd48-48ef-aaa4-317dfbbaf769)
 
