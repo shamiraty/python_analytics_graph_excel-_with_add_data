@@ -15,11 +15,13 @@ NOTE Today's world is competitive in business. The one with great technology wil
 
 4. 📌you can use today's lesson as a basis for you to create your system with the data you have
 
-
+## Front Page | Bar Graph, Dot Plot, Histogram, Scatter Plot, Analytic Metrics
  ![7](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/6a23a905-8172-48fb-8267-022b73734de2)
 
+## Front Page2 | Bar Graph, Dot Plot, Histogram, Scatter Plot, Analytic Metrics
  ![10](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/798a7f89-c91d-4965-972e-f61eb0c70d22)
 
+## DataFrame Displays Data from Excel File with filtered dataframe
 ![9](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/352bd5c1-c2bc-492a-abde-3e55597d282c)
 
 ![2](https://github.com/shamiraty/python_analytics_graph_excel-_with_add_data/assets/129072179/5027488c-7d42-481b-9019-48acb1a50e21)
